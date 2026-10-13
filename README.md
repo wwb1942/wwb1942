@@ -17,13 +17,15 @@
 
 ### 🚀 Featured Projects
 
+<!-- FEATURED:START -->
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**ai-roundtable**](https://github.com/wwb1942/ai-roundtable) | Local multi-agent deliberation with interactive discussions and isolated repo-maintenance workflows | Python |
-| [**codex-portable-memory**](https://github.com/wwb1942/codex-portable-memory) | Portable memory stack for Codex — Markdown workspace logs + MCP semantic recall | TypeScript |
-| [**openclaw-fullstack-dev**](https://github.com/wwb1942/openclaw-fullstack-dev) | OpenClaw AgentSkill for full-stack delivery with build-verified starter templates | Python |
-| [**Article-Ingest**](https://github.com/wwb1942/Article-Ingest) | OpenClaw skill that extracts, cleans and summarizes long-form articles (WeChat, web, Feishu docs, local files) | Python |
-| [**AlphaXiv-Paper-Lookup**](https://github.com/wwb1942/AlphaXiv-Paper-Lookup) | OpenClaw skill for arXiv paper lookup via alphaXiv, with arXiv fallback and structured paper briefs | Python |
+| [**ai-roundtable**](https://github.com/wwb1942/ai-roundtable) | Local multi-agent deliberation with interactive discussions and isolated repository-maintenance workflows. | Python |
+| [**codex-portable-memory**](https://github.com/wwb1942/codex-portable-memory) | Portable memory stack for Codex with Markdown workspace logs, MCP semantic recall, and a reusable skill workf… | TypeScript |
+| [**AlphaXiv-Paper-Lookup**](https://github.com/wwb1942/AlphaXiv-Paper-Lookup) | OpenClaw skill for looking up arXiv papers through alphaXiv with arXiv fallback and structured paper briefs | Python · ⭐ 2 |
+| [**Article-Ingest**](https://github.com/wwb1942/Article-Ingest) | OpenClaw skill for extracting, cleaning, and summarizing long-form articles from WeChat, web, Feishu docs, an… | Python · ⭐ 1 |
+| [**openclaw-fullstack-dev**](https://github.com/wwb1942/openclaw-fullstack-dev) | OpenClaw AgentSkill for full-stack app delivery with build-verified starter templates, architecture workflow… | Python · ⭐ 1 |
+<!-- FEATURED:END -->
 
 ### 🧰 Toolbox
 
